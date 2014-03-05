@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/aurynn/src/posterchild-android/AndroidCameraUtil/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/aurynn/src/posterchild-android/AndroidCameraUtil/src/debug/assets" />
+    </dataSet>
+
+</merger>
